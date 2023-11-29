@@ -166,7 +166,7 @@ dependencies {
     implementation 'curse.maven:forgemultipartcbe-258426:2755790'
     implementation 'curse.maven:guideapi-228832:2645992'
     implementation 'curse.maven:industrialcraft-242638:3078604'
-    implementation 'curse.maven:industrial-foregoing-266515:2745324'
+    implementation files('libs/industrialforegoing-1.12.2-1.12.13-237-deobf.jar')
     implementation 'curse.maven:ironbackpacks-227049:2564573'
     implementation 'curse.maven:mekanism-268560:2835175'
     implementation 'curse.maven:mrtjpcore-229002:2735197'
